@@ -1,7 +1,7 @@
 # drawMolecule
 A tiny tool to draw molecular from a Gauss .log file. 
 
-This is now wrote for C_60. To draw something different, it must be modified.
+This is now wrote for C_60, but I removed the uploaded log file. To draw something different, it must be modified.
 
 And pls forget about my poor makefile.
 
