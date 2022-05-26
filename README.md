@@ -1,5 +1,5 @@
 # drawMolecule
-A tiny tool to draw molecular from a Gauss .log file. 
+A tiny tool to draw molecule from a Gauss .log file. 
 
 This is now wrote for C_60, but I removed the uploaded log file. To draw something different, it must be modified.
 
